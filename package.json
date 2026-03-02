@@ -1,0 +1,12 @@
+{
+  "name": "my-event-talks-app",
+  "version": "1.0.0",
+  "description": "A simple website for a 1-day tech event.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
